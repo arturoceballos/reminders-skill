@@ -1,0 +1,24 @@
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+npm-debug.log
+node_modules
+.idea
+
+.DS_Store
+
+# PROJECT SPECIFIC
+dist
+.idea/compiler.xml
+.idea/copyright/
+.idea/development-boilerplate.iml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+examples/
+gulpfile.js

@@ -1,0 +1,5 @@
+{
+  "Amazon" : {
+    "lambda-arn" : "arn:aws:lambda:us-east-1:665165350418:function:reminder_skill"
+  }
+}
